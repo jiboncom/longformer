@@ -4,5 +4,4 @@ torch>=1.6.0
 tensorboardX
 test-tube==0.7.5
 nlp
-rouge_score==0.1.1
 gradio
